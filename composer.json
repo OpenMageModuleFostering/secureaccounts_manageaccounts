@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/SecureAccounts_ManageAccounts",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "An account management extension which tells admin to reset password for those accounts with compromised passwords",
+    "authors": [
+    {
+        "name": "Rui Wang",
+        "email": "ruiw@vericlouds.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
